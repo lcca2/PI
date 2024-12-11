@@ -1,0 +1,16 @@
+sistema administrativo interno loja HERA
+
+
+-cadastro fornecedor
+-cadastro dos clientes
+-cadastro funcionários
+
+
+-cadastro de produtos
+-controle de estoque
+
+
+-metodos de pagamento
+-relatorio de vendas
+-fluxo de caixa
+-controle de nota fiscal 
